@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+## Scope Chart - drilldown pie chart to visualize emissions by scope, category and activity
+
+See the project live at [https://keikeu.github.io/scope-chart](https://keikeu.github.io/scope-chart)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
